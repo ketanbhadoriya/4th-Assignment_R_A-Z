@@ -1,0 +1,13 @@
+---
+title: "4th-Assignment_R_A-Z"
+author: "Ketan Bhadoriya"
+output: html_document
+---
+
+#Analyzing the Weather Data Using Apply Family of R-Functions
+
+###Loading the Data
+
+```{r}
+
+```
